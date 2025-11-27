@@ -1,50 +1,62 @@
 [
   {
-    "slug": "cat-6",
-    "name": "cat-6"
+    "id": 6,
+    "slug": "film",
+    "name": "FILM"
   },
   {
-    "slug": "cat-12",
-    "name": "cat-12"
+    "id": 12,
+    "slug": "schift",
+    "name": "SCHIFT"
   },
   {
-    "slug": "cat-24",
-    "name": "cat-24"
+     "id": 24,
+    "slug": "archief",
+    "name": "ARCHIEF"
   },
   {
-    "slug": "cat-14",
-    "name": "cat-14"
+    "id": 14,
+    "slug": "boeken",
+    "name": "BOEKEN"
   },
   {
-    "slug": "cat-19",
-    "name": "cat-19"
+    "id": 19,
+    "slug": "nrc-handelsblad",
+    "name": "NRC HANDELSBLAD"
   },
   {
-    "slug": "cat-8",
-    "name": "cat-8"
+    "id": 8,
+    "slug": "muziek",
+    "name": "MUZIEK"
   },
   {
-    "slug": "cat-1",
-    "name": "cat-1"
+    "id": 1,
+    "slug": "geen-categorie",
+    "name": "GEEN CATEGORIE"
   },
   {
-    "slug": "cat-11",
-    "name": "cat-11"
+    "id": 11,
+    "slug": "recent",
+    "name": "RECENT"
   },
   {
-    "slug": "cat-16",
-    "name": "cat-16"
+    "id": 16,
+    "slug": "comedy",
+    "name": "COMEDY"
   },
   {
-    "slug": "cat-18",
-    "name": "cat-18"
+    "id": 18,
+    "slug": "tv",
+    "name": "TV"
   },
   {
-    "slug": "cat-22",
-    "name": "cat-22"
+    "id": 22,
+    "slug": "het-parool",
+    "name": "HET PAROOL"
   },
   {
-    "slug": "cat-23",
-    "name": "cat-23"
+    "id": 23,
+    "slug": "oor",
+    "name": "OOR"
   }
 ]

@@ -1,70 +1,87 @@
 [
   {
-    "slug": "tag-26",
-    "name": "tag-26"
+    "id": 26,
+    "slug": "film",
+    "name": "FILM"
   },
   {
-    "slug": "tag-28",
-    "name": "tag-28"
+     "id": 28,
+    "slug": "schift",
+    "name": "SCHIFT"
   },
   {
-    "slug": "tag-33",
-    "name": "tag-33"
+    "id": 33,
+    "slug": "boeken",
+    "name": "BOEKEN"
   },
   {
-    "slug": "tag-9",
-    "name": "tag-9"
+    "id": 9,
+    "slug": "interview",
+    "name": "INTERVIEW"
   },
   {
-    "slug": "tag-27",
-    "name": "tag-27"
+    "id": 27,
+    "slug": "muziek",
+    "name": "MUZIEK"
   },
   {
-    "slug": "tag-20",
-    "name": "tag-20"
+    "id": 20,
+    "slug": "nrc",
+    "name": "NRC"
   },
   {
-    "slug": "tag-25",
-    "name": "tag-25"
+    "id": 25,
+    "slug": "recensie",
+    "name": "RECENSIE"
   },
   {
-    "slug": "tag-17",
-    "name": "tag-17"
+    "id": 17,
+    "slug": "covers",
+    "name": "COVERS"
   },
   {
-    "slug": "tag-32",
-    "name": "tag-32"
+    "id": 32,
+    "slug": "documentaire",
+    "name": "DOCUMENTAIRE"
   },
   {
-    "slug": "tag-31",
-    "name": "tag-31"
+    "id": 31,
+    "slug": "idfa",
+    "name": "IDFA"
   },
   {
-    "slug": "tag-13",
-    "name": "tag-13"
+    "id": 13,
+    "slug": "daily-tiger",
+    "name": "DAILY TIGER"
   },
   {
-    "slug": "tag-7",
-    "name": "tag-7"
+    "id": 7,
+    "slug": "iffr",
+    "name": "IFFR"
   },
   {
-    "slug": "tag-15",
-    "name": "tag-15"
+    "id": 15,
+    "slug": "literatuur",
+    "name": "LITERATUUR"
   },
   {
-    "slug": "tag-29",
-    "name": "tag-29"
+    "id": 29,
+    "slug": "comedy",
+    "name": "COMEDY"
   },
   {
-    "slug": "tag-10",
-    "name": "tag-10"
+    "id": 10,
+    "slug": "televisie",
+    "name": "TELEVISIE"
   },
   {
-    "slug": "tag-30",
-    "name": "tag-30"
+    "id": 30,
+    "slug": "tv",
+    "name": "TV"
   },
   {
-    "slug": "tag-34",
-    "name": "tag-34"
+    "id": 34,
+    "slug": "vpro-gids",
+    "name": "VPRO GIDS"
   }
 ]
